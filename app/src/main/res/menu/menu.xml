@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ejecutarSQL"
+        android:title="Ejecutar SQL.">
+
+    </item>
+    <item
+        android:id="@+id/realizarConsulta"
+        android:title="Realizar consulta">
+
+    </item>
+    <item
+        android:id="@+id/Salir"
+        android:title="Salir">
+    </item>
+</menu>
